@@ -15,6 +15,7 @@ body {
 
 .resume-header {
     background-color: #1F1F1F;
+	color: white
 }
 
 .resume-main {
@@ -36,7 +37,7 @@ body {
 }
 
 .biography-details li::before {
-	color: #FF0B00;
+    color: #2E2E2E;
 }
 
 .biography-details li, .skill-list li {
